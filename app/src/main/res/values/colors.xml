@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="spongebob_yellow">#FFF45C</color>
+    <color name="spongebob_blue">#73c7df</color>
+    <color name="blue">#F2FCFE</color>
+    <color name="yellow">#e0b300</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="warning">#E33B32</color>
+</resources>
